@@ -9,6 +9,7 @@ public class Main {
         System.out.println(firstBike.getEngineSize());
         System.out.println(firstBike.getFuelType());
 
+
         System.out.println(firstCar.getNumberOfWheels());
         System.out.println(firstCar.getColor());
         System.out.println(firstCar.getEngineSize());
